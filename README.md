@@ -86,7 +86,14 @@ This project taught me:
 - Debugging complex game systems
 - Building complete software projects independently
 
-Most importantly, it reinforced my passion for Virtual and Augmented Reality development.This project challenged me to learn an entirely new technology stack while applying software engineering principles in a VR environment.
+Most importantly, it reinforced my passion for Virtual and Augmented Reality development.
+
+---
+## Lessons Learned
+
+This project was my introduction to Virtual Reality development and taught me how software engineering principles translate into immersive applications. It strengthened my understanding of Unity, real-time physics, VR interaction design, debugging complex systems, and user experience within virtual environments.This project challenged me to learn an entirely new technology stack while applying software engineering principles in a VR environment.
+
+Most importantly, it confirmed my interest in XR development and motivated me to continue learning more about virtual and augmented reality technologies.
 
 ---
 
