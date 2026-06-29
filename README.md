@@ -86,7 +86,7 @@ This project taught me:
 - Debugging complex game systems
 - Building complete software projects independently
 
-Most importantly, it reinforced my passion for Virtual and Augmented Reality development.
+Most importantly, it reinforced my passion for Virtual and Augmented Reality development.This project challenged me to learn an entirely new technology stack while applying software engineering principles in a VR environment.
 
 ---
 
