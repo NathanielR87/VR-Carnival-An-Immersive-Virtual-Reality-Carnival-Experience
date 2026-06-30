@@ -5,6 +5,7 @@
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-purple)
 ![VR](https://img.shields.io/badge/Platform-Google%20Cardboard-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 ![RPReplay_Final1698798281](https://github.com/user-attachments/assets/1008a1bc-fb18-46dd-bcf0-0bd29ceb787f)
